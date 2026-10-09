@@ -6,7 +6,7 @@
 ### Explore my projects
 [![Supernova Extern](https://img.shields.io/badge/Supernova-Extern-6A1B9A?style=for-the-badge)](https://github.com/rsfisher08/YOUR-SUPERNOVA-REPO)
 
-[![TripleTen Analyst Fellow](https://img.shields.io/badge/TripleTen-Analyst%20Fellow-0A66C2?style=for-the-badge)](https://github.com/rsfisher08/Data_projects_TripleTen)
+[![TripleTen Data Analytics](https://img.shields.io/badge/TripleTen-Data%20Analytics-0A66C2?style=for-the-badge)](https://github.com/rsfisher08/Data_projects_TripleTen)
 
 I’m especially energized by projects that serve mission-driven goals and improve user experiences--from internal workflows to customer-facing solutions. Outside of work, you’ll likely find me exploring the outdoors--backpacking, climbing, or traveling to new places. I bring that same spirit of exploration and adaptability into every project I take on. 
 
