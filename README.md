@@ -4,7 +4,7 @@
 [![Github Badge](https://img.shields.io/badge/-rsfisher08-grey?style=flat&logo=github&logoColor=white&link=https://github.com/rsfisher08/)](https://www.github.com/rsfisher08/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/rsfisher08/)](https://github.com/rsfisher08/) <p align='left'>I’m a Data Analyst skilled in SQL, Excel, Power BI, Tableau, and Python, with experience in healthcare, HR technology, and client success. I turn data into stories that drive decisions, with a people-first approach.
 
 ### Explore my projects
-[![Supernova Extern](https://img.shields.io/badge/Supernova-Extern-6A1B9A?style=for-the-badge)](https://github.com/rsfisher08/YOUR-SUPERNOVA-REPO)
+[![Supernova Externship](https://img.shields.io/badge/Supernova-Externship-6A1B9A?style=for-the-badge)](https://github.com/rsfisher08/YOUR-SUPERNOVA-REPO)
 
 [![TripleTen Data Analytics](https://img.shields.io/badge/TripleTen-Data%20Analytics-0A66C2?style=for-the-badge)](https://github.com/rsfisher08/Data_projects_TripleTen)
 
